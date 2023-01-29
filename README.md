@@ -1,4 +1,4 @@
-[p1_description.pdf](https://github.com/cberko/LinkedListImplemantation/files/10529869/p1_description.pdf)
+You can access describtion of the project by [clicking here](https://github.com/cberko/LinkedListImplemantation/files/10529869/p1_description.pdf)
 # LinkedListImplemantation
 This is the project which was given in the CMPE250 Data Structures and Algorithm course for the implementation of doubly linked list.
-The project was created by github.com/bahadirgezer
+The project was created by [bahadirgezer](github.com/bahadirgezer)
